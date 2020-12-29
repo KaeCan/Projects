@@ -1,0 +1,22 @@
+rent "Passengers"
+add "Passengers",2
+return "Doctor Strange"
+remove "The Crow",1
+add "Arrival",4
+return "Passengers"
+remove "Captain America: Civil War",2
+
+/add "Arrival",4
+/rent "Passengers",1
+/remove "The Crow",100
+/return "bruh"
+/return "Passengers",4
+/add "Arrival"
+/remove "Captain America: Civil War",5c
+/add "Passengers",4a
+/remove "The Crow"
+/remove "Arrival",7
+/remove "Arrival",1
+
+return "Lilo and Stitch"
+remove "Lilo and Stitch",1
