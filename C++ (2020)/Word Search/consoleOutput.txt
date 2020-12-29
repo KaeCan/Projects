@@ -1,0 +1,119 @@
+Enter file name to use: Cowboy.txt
+Can't open the specified input file: No such file or directory
+The file name used was: Cowboy.txt
+Enter another file name to use (or type 'quit'): --- The new file name is:
+Can't open the specified input file: Invalid argument
+The file name used was:
+Enter another file name to use (or type 'quit'): ComedyMovies-FINAL.txt
+--- The new file name is: ComedyMovies-FINAL.txt
+Would you like to search for multiple occurrences of a word? Please enter Y / N: y
+Nbr Rows: 18;    Nbr Cols: 18
+S C F R B O B R O B E R T S L O K L
+T N L E S R E K C I L S Y T I C R L
+A O E P O B L R U A E C H B U D E A
+R I T O T H E Y O M T O L B A T P H
+L T C M W R G I F M L B E E I B E E
+L C H A I B A O N I L L A U R G E I
+A E K N L U L D D G C I S L H K L N
+M L C T I L L A I N T A G O L H S N
+A E U D A L Y C U N Z H S Y L O S A
+C R R U R D B H S A G T E O P L U S
+L O T C L U L H L L B P C R A P L A
+U M S K I R O P O U L A L P E A A K
+E H N S A H N N S T L A S A C C E H
+L S O O R A D T E H S H B K C R O A
+E U O U F M E M E C O H E T H E E R
+S R M P A R T R B T A R O S A A S V
+S L E I S T O O T H E R U T L E S E
+N A T T A H N A M S E Y S L S S M Y
+
+ALLOFME found at 9, 5: (direction = NE)
+ANNIEHALL found at 9, 18: (direction = N)
+BABE found at 3, 14: (direction = SE)
+BEINGTHERE found at 3, 6: (direction = SE)
+BIG found at 4, 14: (direction = SE)
+BOBROBERTS found at 1, 5: (direction = E)
+BULLDURHAM found at 6, 6: (direction = S)
+CARS found at 15, 10: (direction = SE)
+CATBALLOU found at 2, 9: (direction = SE)
+CITYSLICKERS found at 2, 16: (direction = W)
+CLERKS found at 3, 12: (direction = SE)
+CLUELESS found at 10, 1: (direction = S)
+DUCKSOUP found at 9, 4: (direction = S)
+ELECTION found at 9, 2: (direction = N)
+FLETCH found at 1, 3: (direction = S)
+GHOSTBUSTERS found at 6, 16: (direction = SW)
+HAPPYGILMORE found at 13, 18: (direction = NW)
+HARVEY found at 13, 18: (direction = S)
+HOLIDAY found at 3, 13: (direction = SW)
+HOTSHOTS found at 11, 8: (direction = SE)
+LEGALLYBLONDE found at 3, 7: (direction = S)
+LIARLIAR found at 7, 5: (direction = S)
+LOCALHERO found at 9, 15: (direction = SW)
+MALLRATS found at 8, 1: (direction = N)
+MANHATTAN found at 18, 9: (direction = W)
+MEATBALLS found at 18, 17: (direction = NW)
+MOONSTRUCK found at 16, 3: (direction = N)
+OHGOD found at 3, 5: (direction = SE)
+PLAZASUITE found at 12, 8: (direction = NE)
+REPOMAN found at 1, 4: (direction = S)
+RUSHMORE found at 16, 2: (direction = N)
+SHREK found at 16, 14: (direction = NE)
+SLACKER found at 10, 18: (direction = SW)
+SLAPSHOT found at 9, 17: (direction = SW)
+SLEEPER found at 8, 17: (direction = N)
+THERUTLES found at 17, 9: (direction = E)
+TOOTSIE found at 17, 9: (direction = W)
+TRADINGPLACES found at 4, 5: (direction = SE)
+UNCLEBUCK found at 9, 9: (direction = NE)
+YESMAN found at 18, 12: (direction = W)
+RUR found at 10, 3: (direction = E)
+RUR found at 10, 5: (direction = W)
+
+Words not found:
+NAPOLEANDYNAMITE
+RAISINGARIZONA
+zzzz
+Choose one of the following:
+1. Search for additional words
+2. Search a different word puzzle
+3. Exit
+1
+What word would you like to search for? crap
+CRAP found at 11, 13: (direction = E)
+Choose one of the following:
+1. Search for additional words
+2. Search a different word puzzle
+3. Exit
+1
+What word would you like to search for? asdfjkl;
+ASDFJKL; not detected in word search
+Choose one of the following:
+1. Search for additional words
+2. Search a different word puzzle
+3. Exit
+2
+Enter file name to use: test.txt
+Would you like to search for multiple occurrences of a word? Please enter Y / N: n
+Nbr Rows: 6;    Nbr Cols: 5
+A B C D E
+F G H I J
+K L O M N
+P Q R S T
+U V W X Y
+1 2 3 4 5
+
+LOM found at 3, 2: (direction = E)
+MRV found at 3, 4: (direction = SW)
+
+Words not found:
+XYZ
+666
+Choose one of the following:
+1. Search for additional words
+2. Search a different word puzzle
+3. Exit
+3
+
+Process returned 0 (0x0)   execution time : 54.244 s
+Press any key to continue.

@@ -1,0 +1,173 @@
+specify what file to use as input: TongueTwisters.txt
+---------------------------------------------
+
+This is a test. My dog has fleas.
+Number of words: 8
+Number of letter: 24
+Number of vowels: 8
+Number of consonants: 16
+Number of punctuation symbols: 2
+Title Case: This Is A Test. My Dog Has Fleas.
+Toggle Case: tHIS iS a tEST. mY dOG hAS fLEAS.
+Sentence Case: This is a test. My dog has fleas.
+Sentence Case (with exceptions): This is a test. My dog has fleas.                                                      
+Longest Word(s): fleas
+---------------------------------------------
+
+Amy asked an aardvark.
+Number of words: 4
+Number of letter: 18
+Number of vowels: 7
+Number of consonants: 11
+Number of punctuation symbols: 1
+Title Case: Amy Asked An Aardvark.
+Toggle Case: aMY aSKED aN aARDVARK.
+Sentence Case: Amy asked an aardvark.
+Sentence Case (with exceptions): Amy asked an aardvark.                                                                 
+Longest Word(s): aardvark
+---------------------------------------------
+
+The rain in Spain stays mainly in the plains.
+Number of words: 9
+Number of letter: 36
+Number of vowels: 13
+Number of consonants: 23
+Number of punctuation symbols: 1
+Title Case: The Rain In Spain Stays Mainly In The Plains.
+Toggle Case: tHE rAIN iN sPAIN sTAYS mAINLY iN tHE pLAINS.
+Sentence Case: The rain in spain stays mainly in the plains.
+Sentence Case (with exceptions): The rain in Spain stays mainly in the plains.                                          
+Longest Word(s): mainly plains
+---------------------------------------------
+
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+Number of words: 13
+Number of letter: 57
+Number of vowels: 21
+Number of consonants: 36
+Number of punctuation symbols: 1
+Title Case: How Much Wood Would A Woodchuck Chuck If A Woodchuck Could Chuck Wood?
+Toggle Case: hOW mUCH wOOD wOULD a wOODCHUCK cHUCK iF a wOODCHUCK cOULD cHUCK wOOD?
+Sentence Case: How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+Sentence Case (with exceptions): How much wood would a woodchuck chuck if a woodchuck could chuck wood?                 
+Longest Word(s): woodchuck
+---------------------------------------------
+
+Suzy sells seashells by the seashore.
+Number of words: 6
+Number of letter: 31
+Number of vowels: 10
+Number of consonants: 21
+Number of punctuation symbols: 1
+Title Case: Suzy Sells Seashells By The Seashore.
+Toggle Case: sUZY sELLS sEASHELLS bY tHE sEASHORE.
+Sentence Case: Suzy sells seashells by the seashore.
+Sentence Case (with exceptions): Suzy sells seashells by the seashore.                                                  
+Longest Word(s): seashells
+---------------------------------------------
+
+Becky's beagle barked and bayed, becoming bothersome for Billy.
+Number of words: 9
+Number of letter: 52
+Number of vowels: 18
+Number of consonants: 34
+Number of punctuation symbols: 3
+Title Case: Becky's Beagle Barked And Bayed, Becoming Bothersome For Billy.
+Toggle Case: bECKY'S bEAGLE bARKED aND bAYED, bECOMING bOTHERSOME fOR bILLY.
+Sentence Case: Becky's beagle barked and bayed, becoming bothersome for billy.
+Sentence Case (with exceptions): Becky's beagle barked and bayed, becoming bothersome for Billy.                        
+Longest Word(s): bothersome
+---------------------------------------------
+
+Can you keep the cat from clawing the couch? It's creating chaos.
+Number of words: 12
+Number of letter: 51
+Number of vowels: 19
+Number of consonants: 32
+Number of punctuation symbols: 3
+Title Case: Can You Keep The Cat From Clawing The Couch? It's Creating Chaos.
+Toggle Case: cAN yOU kEEP tHE cAT fROM cLAWING tHE cOUCH? iT'S cREATING cHAOS.
+Sentence Case: Can you keep the cat from clawing the couch? It's creating chaos.
+Sentence Case (with exceptions): Can you keep the cat from clawing the couch? It's creating chaos.                      
+Longest Word(s): creating
+---------------------------------------------
+
+Dan's dog dove deep in the dam, drinking dirty water as he dove.
+Number of words: 13
+Number of letter: 49
+Number of vowels: 18
+Number of consonants: 31
+Number of punctuation symbols: 3
+Title Case: Dan's Dog Dove Deep In The Dam, Drinking Dirty Water As He Dove.
+Toggle Case: dAN'S dOG dOVE dEEP iN tHE dAM, dRINKING dIRTY wATER aS hE dOVE.
+Sentence Case: Dan's dog dove deep in the dam, drinking dirty water as he dove.
+Sentence Case (with exceptions): Dan's dog dove deep in the dam, drinking dirty water as he dove.                       
+Longest Word(s): drinking
+---------------------------------------------
+
+Fred's friends fried Fritos for Friday's food.
+Number of words: 7
+Number of letter: 37
+Number of vowels: 12
+Number of consonants: 25
+Number of punctuation symbols: 3
+Title Case: Fred's Friends Fried Fritos For Friday's Food.
+Toggle Case: fRED'S fRIENDS fRIED fRITOS fOR fRIDAY'S fOOD.
+Sentence Case: Fred's friends fried fritos for friday's food.
+Sentence Case (with exceptions): Fred's friends fried Fritos for Friday's food.                                         
+Longest Word(s): friends Fridays
+---------------------------------------------
+
+Greedy goats gobbled up gooseberries, getting good at grabbing the goodies.
+Number of words: 11
+Number of letter: 63
+Number of vowels: 25
+Number of consonants: 38
+Number of punctuation symbols: 2
+Title Case: Greedy Goats Gobbled Up Gooseberries, Getting Good At Grabbing The Goodies.
+Toggle Case: gREEDY gOATS gOBBLED uP gOOSEBERRIES, gETTING gOOD aT gRABBING tHE gOODIES.
+Sentence Case: Greedy goats gobbled up gooseberries, getting good at grabbing the goodies.
+Sentence Case (with exceptions): Greedy goats gobbled up gooseberries, getting good at grabbing the goodies.            
+Longest Word(s): gooseberries
+---------------------------------------------
+
+Rudolph the red-nosed reindeer rose rapidly into the air.
+Number of words: 9
+Number of letter: 47
+Number of vowels: 19
+Number of consonants: 28
+Number of punctuation symbols: 2
+Title Case: Rudolph The Red-nosed Reindeer Rose Rapidly Into The Air.
+Toggle Case: rUDOLPH tHE rED-NOSED rEINDEER rOSE rAPIDLY iNTO tHE aIR.
+Sentence Case: Rudolph the red-nosed reindeer rose rapidly into the air.
+Sentence Case (with exceptions): Rudolph the red-nosed reindeer rose rapidly into the air.                              
+Longest Word(s): rednosed reindeer
+---------------------------------------------
+
+Seven sisters slept soundly on the sand.
+Number of words: 7
+Number of letter: 33
+Number of vowels: 10
+Number of consonants: 23
+Number of punctuation symbols: 1
+Title Case: Seven Sisters Slept Soundly On The Sand.
+Toggle Case: sEVEN sISTERS sLEPT sOUNDLY oN tHE sAND.
+Sentence Case: Seven sisters slept soundly on the sand.
+Sentence Case (with exceptions): Seven sisters slept soundly on the sand.                                               
+Longest Word(s): sisters soundly
+---------------------------------------------
+
+In Hertford, Hereford, and Hampshire, hurricanes hardly ever happen.
+Number of words: 9
+Number of letter: 56
+Number of vowels: 19
+Number of consonants: 37
+Number of punctuation symbols: 4
+Title Case: In Hertford, Hereford, And Hampshire, Hurricanes Hardly Ever Happen.
+Toggle Case: iN hERTFORD, hEREFORD, aND hAMPSHIRE, hURRICANES hARDLY eVER hAPPEN.
+Sentence Case: In hertford, hereford, and hampshire, hurricanes hardly ever happen.
+Sentence Case (with exceptions): In Hertford, Hereford, and Hampshire, hurricanes hardly ever happen.                   
+Longest Word(s): hurricanes
+
+Process returned 0 (0x0)   execution time : 4.417 s
+Press any key to continue.

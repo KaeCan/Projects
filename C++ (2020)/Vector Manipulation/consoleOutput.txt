@@ -1,0 +1,46 @@
+How big do you want the vector to be? 40
+What is the biggest number you would like to generate? 15
+
+Unsorted, original numbers.
+3|7|0|7|3|12|7|2|1|2|3|1|5|4|5|6|7|9|6|3|4|9|0|9|3|15|15|4|9|0|9|5|10|11|11|0|1|1|6|8|
+The Vector size is: 40
+The Vector's capacity is: 40
+
+Algorithm sorted, original numbers.
+0|0|0|0|1|1|1|1|2|2|3|3|3|3|3|4|4|4|5|5|5|6|6|6|7|7|7|7|8|9|9|9|9|9|10|11|11|12|15|15|
+The Vector size is: 40
+The Vector's capacity is: 40
+
+Bubble sorted, copy of numbers.
+0|0|0|0|1|1|1|1|2|2|3|3|3|3|3|4|4|4|5|5|5|6|6|6|7|7|7|7|8|9|9|9|9|9|10|11|11|12|15|15|
+The Vector size is: 40
+The Vector's capacity is: 40
+
+Type in any number to check for it in the Vector. Type -1 to continue. 5
+5 can be found in the Vector!
+There are 3 instances of 5
+
+Type in any number to check for it in the Vector. Type -1 to continue. 7
+7 can be found in the Vector!
+There are 4 instances of 7
+
+Type in any number to check for it in the Vector. Type -1 to continue. 13
+13 cannot be found in the Vector!
+
+Type in any number to check for it in the Vector. Type -1 to continue. 9
+9 can be found in the Vector!
+There are 5 instances of 9
+
+Type in any number to check for it in the Vector. Type -1 to continue. 21
+21 cannot be found in the Vector!
+
+Type in any number to check for it in the Vector. Type -1 to continue. -1
+-1 cannot be found in the Vector!
+
+Deleting all duplicate numbers in Vector.
+0|1|2|3|4|5|6|7|8|9|10|11|12|15|
+The Vector size is: 14
+The Vector's capacity is: 14
+
+Process returned 0 (0x0)   execution time : 155.676 s
+Press any key to continue.
